@@ -5,5 +5,5 @@ The algorithm shows the location that can be travelled to according to a constra
 
 
 
-https://github.com/limeraiin/Pathfinding-Prediction-Unity/assets/64265868/b5dea6a9-9704-4f1a-a05e-60b626d526fc
+https://github.com/limeraiin/Pathfinding-Prediction-Unity/assets/64265868/cd9694a8-31fe-4893-a98e-007b212e380c
 
